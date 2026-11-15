@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blockmimicry:block/mimic_block"
+    }
+  }
+}

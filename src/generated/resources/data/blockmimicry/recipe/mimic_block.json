@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": "#c:dyes",
+    "W": "#minecraft:wool"
+  },
+  "pattern": [
+    " D ",
+    "DWD",
+    " D "
+  ],
+  "result": {
+    "count": 4,
+    "id": "blockmimicry:mimic_block"
+  }
+}

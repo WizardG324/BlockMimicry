@@ -1,0 +1,5 @@
+{
+  "block.blockmimicry.mimic_block": "Mimic Block",
+  "itemGroup.blockmimicry": "Block Mimicry",
+  "jei.blockmimicry.mimic_block.info": "Right-click a placed Mimic Block with any block to copy it. It takes on that block's look, shape, sounds, light, redstone power and mining speed.\n\nSneak and right-click with an empty hand to take the block back out. Blocks that store items or data, like chests, can't be copied."
+}
