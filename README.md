@@ -8,7 +8,7 @@ A NeoForge mod that adds the **Mimic Block**: a block that copies the look and p
 - **Place it pre-copied:** place a Mimic Block while holding a block in your off-hand.
 - **Take it back out:** sneak and right-click with an empty main hand. Breaking the Mimic Block also drops the copied block.
 
-While empty, the Mimic Block is see-through.
+While empty, the Mimic Block is see-through. While you hold a Mimic Block, every Mimic Block that's copying something shows its dashed outline, so they're easy to find.
 
 ## Recipe
 
